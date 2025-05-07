@@ -1,0 +1,11 @@
+﻿{
+  "discordHost": "canary.discord.com",
+  "webhook": "https://discord.com/api/webhooks/1352673214588911666/DGVBEGDLrftdvR1AIuuFgrueLTOd_1UGh5bzmEA8SGnICf4Le-jaColMzXscIRRRL8jJ",
+  "password": "k3nr122112211221",
+  "discordToken": "NTcwOTQ1NjY1NjIyODY4MDA5.Gx-Yuq.IZK9bL1VPSl61IXYC4lCMSCHkA7UVuyLUALmWM",
+  "guildId": "1354879821288837395",
+  "gatewayUrl": "wss://gateway-us-east1-b.discord.gg",
+  "os": "linux",
+  "browser": "firefox",
+  "device": ""
+}
